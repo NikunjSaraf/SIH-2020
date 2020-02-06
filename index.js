@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBwKvb-B9G2wPSOk3LTS0rCk30yCAR8IqA",
-  authDomain: "sih2020-afa03.firebaseapp.com",
-  databaseURL: "https://sih2020-afa03.firebaseio.com",
-  projectId: "sih2020-afa03",
-  storageBucket: "sih2020-afa03.appspot.com",
-  messagingSenderId: "669320075448",
-  appId: "1:669320075448:web:f4426a5fab8a97d0713c4d"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
